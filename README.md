@@ -308,6 +308,7 @@ ax.plot(x, norm.pdf(x, mu, sigma)*scale) # compute theoritical PDF and draw it
 
 
 <img width="697" height="390" alt="image" src="https://github.com/user-attachments/assets/0c4dc76e-8fe9-492d-86dc-8db7358a17c9" />
+<img width="454" height="339" alt="image" src="https://github.com/user-attachments/assets/355780c0-1d8e-4648-897d-4c79d0edbb25" />
 
 
 ##### 5. Quelles remarques peut-on faire à l'observation de l'histogramme et de la loi théorique?
