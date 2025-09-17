@@ -171,34 +171,42 @@ df = pandas.read_csv()
 
 Quel est le type de l'objet `df`?
 ```
-
+un dataframe pandas
 ```
 
 ##### Descriptions d'une table de données
 Que permettent les méthodes suivantes?
 ###### df.shape
 ```
+obtenir le nbr de lignes et de colonnes du df
 ```
 ###### df.head()
 ```
+voir les premiere lignes du df
 ```
 ###### df.tail()
 ```
+voir les dernieres ligne du df
 ```
 ###### df.columns
 ```
+voir le noms des colonnes
 ```
 ###### df.dtypes
 ```
+types des valeur des colonnes/lignes
 ```
 ###### df.info
 ```
+nom colonnes, types des elts,...
 ```
 ###### df.describe()
 ```
+donne stat descrptives (count, mean, sd,...)
 ```
 ###### df.dropna()
 ```
+drop les valeurs manquantes du df
 ```
 
 ##### Accès aux éléments d'une table de données
@@ -208,6 +216,7 @@ values = df[['Description', 'Gene Symbol']]
 ```
 
 Quel est le type de `values` ?
+dataframe aussi comme df
 
 Verifiez si certaines méthodes de `DataFrame` lui sont applicables.
 Ce type supporte l'accès par indice et les slice `[a:b]`
