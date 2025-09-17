@@ -306,7 +306,9 @@ scale = len(_)*dx # scale accordingly
 ax.plot(x, norm.pdf(x, mu, sigma)*scale) # compute theoritical PDF and draw it
 ```
 
-![Histogramme à inserez ici](histogram_log2FC.png "Title")
+
+<img width="697" height="390" alt="image" src="https://github.com/user-attachments/assets/0c4dc76e-8fe9-492d-86dc-8db7358a17c9" />
+
 
 ##### 5. Quelles remarques peut-on faire à l'observation de l'histogramme et de la loi théorique?
 
