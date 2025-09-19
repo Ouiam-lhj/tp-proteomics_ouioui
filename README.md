@@ -474,18 +474,19 @@ Consulter la rubrique 'Network Stats' dans l'onglet Analysis.
 Que peut-on en conclure sur les interactions de ce petit ensemble de protéines ?
 ```
 
-
+ESSETIELMENT LE COEUR DU RESEAU C LES OUTER MEMBRAN EPROT (TT ce quon peut dire a partir du petit réseau)
 
 
 ```
 
 Afin de replacer ces protéines dans le contexte du réseau d'interaction global de E. coli, 
+
 ajouter les interacteurs de la première et de la deuxième couche.
+en passant de 23 a 33 ineracteur cliquant sur "more"X2 : celles qio sont ajoutés ont les prot ribosomales
 
 Que pouvez-vous en déduire sur les mécanismes activés par la présente de tétracycline ?
 ```
-
-
+ import et export de prot
 
 
 ```
