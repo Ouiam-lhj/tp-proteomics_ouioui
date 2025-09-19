@@ -438,12 +438,14 @@ Valider le mapping produit par STRING en clickant sur 'Continue'.
 
 
 #### Visualisation du réseau dans STRING
+<img width="765" height="780" alt="image" src="https://github.com/user-attachments/assets/03946d7d-6244-470a-a0f2-7ed1b86be273" />
 
 
 Combien d'interactions contient ce réseau ?
 
 ```
 
+32
 
 
 
