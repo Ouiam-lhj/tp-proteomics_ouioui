@@ -445,7 +445,7 @@ Combien d'interactions contient ce réseau ?
 
 ```
 
-32
+38
 
 
 
