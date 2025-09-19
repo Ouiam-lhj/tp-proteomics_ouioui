@@ -328,7 +328,7 @@ Sont condidérées comme surabondantes les proteines remplissant ces deux critè
 * $\text{Log}_2(\text{abundance ratio})\gt\mu%2B\sigma$
 * $\text{p-value}<0.001$
 
-<img width="454" height="339" alt="image" src="https://github.com/user-attachments/assets/a9374d81-308d-4c06-8ba1-4d72164fd4be" />
+<img width="454" height="339" alt="image" src="https://github.com/user-attachments/assets/9f709a71-9a59-42d7-8b4c-2a120b492922" />
 
 ### Analyse Fonctionelle de pathway
 
